@@ -1,92 +1,62 @@
+# Hi, I'm Npouria 👋
 
+### Frontend Developer | React.js • Next.js • TypeScript
 
-<h1 align="center">CheckMyGit</h1>
+I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
 
-<p align="center">
-  <strong>Transform any GitHub profile into a stunning portfolio in seconds.</strong>
-</p>
+I enjoy turning ideas and designs into clean, maintainable, and interactive user experiences.
 
-<p align="center">
-  <a href="https://checkmygit.com">Live Demo</a> •
-  <a href="#features">Features</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#roadmap">Roadmap</a>
-</p>
+Currently focusing on improving my skills in React.js, Next.js, TypeScript, and modern frontend development practices.
 
 ---
 
-<p align="center">
-  <img src="src/lib/assets/readme_img.png" alt="CheckMyGit" width="100%" />
-</p>
+### 🚀 Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+
+**Tools & Testing**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 ---
 
-## Features
+### 📌 Featured Projects
 
-- **Instant Generation** — Enter any GitHub username, get a beautiful portfolio
-- **3 Templates** — GitHub-style sidebar, Bento grid, or Minimal CV layout
-- **Contribution Graph** — Full year heatmap visualization
-- **Language Stats** — Donut chart breakdown of your tech stack
-- **Pinned Projects** — Showcase your best repositories
-- **PNG Export** — Download your portfolio as an image
-- **Shareable URLs** — `checkmygit.com/username?template=bento`
-- **No Auth Required** — Fully open source, no sign-up needed
-
-## Tech Stack
-
-- **Framework:** SvelteKit 2 + Svelte 5 Runes
-- **Styling:** Tailwind CSS 4
-- **API:** GitHub GraphQL + REST fallback
-- **Deployment:** Cloudflare Pages
-- **Export:** html-to-image
-
-## Roadmap
-
-- [ ] **Dynamic OG Images** — Satori + Resvg for custom social preview cards
-- [ ] **New Templates** — Developer card, Resume/CV, Portfolio grid
-- [ ] **UI Polish** — Dark/light theme toggle, animation refinements
-- [ ] **PDF Export** — Download portfolio as PDF document
-- [ ] **Custom Themes** — User-defined accent colors and fonts
-
-## Getting Started
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/whoisyurii/checkmygit.git
-   cd checkmygit
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Set up environment variables**
-   ```bash
-   cp .env.example .env
-   ```
-   Then add your GitHub token to `.env`:
-   ```
-   GITHUB_TOKEN=ghp_your_token_here
-   ```
-   > Create a token at [github.com/settings/tokens](https://github.com/settings/tokens) with `read:user` scope. Optional but recommended to avoid rate limits.
-
-4. **Start the dev server**
-   ```bash
-   npm run dev
-   ```
-   Open [localhost:5173](http://localhost:5173) in your browser.
-
-## Contributing
-
-Contributions welcome! Feel free to open issues or submit PRs.
-
-## License
-
-MIT
+*Projects are being developed and will be showcased here.*
 
 ---
 
-<p align="center">
-  Built with SvelteKit & shipped on Cloudflare
-</p>
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=npouriaa&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=npouriaa&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/npouriaa/)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram)](https://t.me/npouriaa)
+
+---
+
+⭐ Thanks for visiting my profile!
